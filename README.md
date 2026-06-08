@@ -21,8 +21,8 @@ A luxury Italian mountain café website built using Lovable AI, featuring authen
 
 ## Live Demo
 
-la-montagna-elegance
-.lovable.app
+[la-montagna-elegance
+.lovable.app](https://la-montagna-elegance.lovable.app)
 
 ## Author
 
